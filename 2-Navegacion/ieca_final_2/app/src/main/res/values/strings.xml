@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ieca_final_2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Reglamento</string>
+    <string name="second_fragment_label">Sessiones</string>
+    <string name="tercer_fragment_label">Temario</string>
+    <string name="next_temario">Temario</string>
+    <string name="nest_sesiones">Sesiones</string>
+    <string name="close">Reglamento</string>
+
+
+</resources>
